@@ -120,7 +120,8 @@ The below table breaks down the general time needed to complete activities.
 | -------- | -----: |
 | Lab (6 × 2:30h) | 15:00h |
 | Coaching (2 × 0:20h) | 0:40h |
-| Assessment | 91:00h |
+| Work on project (8 × 11:15h) | 90:00h |
+| Assessment | 1:00h |
 | **Total** | **116:40h** |
 
 ###### Per week
