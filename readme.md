@@ -12,7 +12,7 @@ Project Tech is a first stepping stone for you to become a web developer.
 *   [Effort](#effort)
 *   [Assessment](#assessment)
 *   [Bugs](#bugs)
-*   [Stress](#stress)
+*   [Health](#health)
 *   [Conduct](#conduct)
 *   [Privacy](#privacy)
 *   [Semester](#semester)
@@ -214,7 +214,7 @@ If you have questions:
 *   [Ask questions on Slack][slack]
 *   [Contact a lecturer](#synopsis)
 
-## Stress
+## Health
 
 **Please take care of yourself**.
 Eat well, exercise, get enough sleep.
