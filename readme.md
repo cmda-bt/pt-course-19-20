@@ -31,8 +31,9 @@ xxx February and yyy June.
 *   **Module**: Project Tech (SIS: `265222`; catalog: `2000PTEC16`)
 *   **Coordinator**: Titus Wormer ([**@wooorm**][wooorm])
 *   **Instructors**:
-    Titus Wormer ([**@wooorm**][wooorm]) and
-    Sonja Rouwhorst ([**@rouws**][rouws])
+    Titus Wormer ([**@wooorm**][wooorm], BT 3, BT 5),
+    Ioannis Kapritsias ([@TuriGuilano][turiguilano], BT 1, BT 4)
+    Sonja Rouwhorst ([**@rouws**][rouws], BT 2)
 *   **Credit**: 5 ([ECTS][])
 *   **Effort**: 140 (academic hours of 50 minutes)
 *   **Contact**: 32 (academic hours of 50 minutes)
@@ -97,18 +98,21 @@ In practice you will:
 Dates are indicative.
 Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 
-| Class | Date BT 2 | Date BT 3 | Date BT 4 | Date BT 5 | Date BT 5 |
+**This is a draft**.
+
+| Class | Date BT 1 | Date BT 2 | Date BT 3 | Date BT 4 | Date BT 5 |
 | ----- | :-------: | :-------: | :-------: | :-------: | :-------: |
-| Lab 1 | 00-00 | 00-00 | 00-00 | 00-00 | 00-00 |
-| Lab 2 | 00-00 | 00-00 | 00-00 | 00-00 | 00-00 |
-| Coaching 1 | 00-00 | 00-00 | 00-00 | 00-00 | 00-00 |
-| Lab 3 | 00-00 | 00-00 | 00-00 | 00-00 | 00-00 |
-| Lab 4 | 00-00 | 00-00 | 00-00 | 00-00 | 00-00 |
-| Coaching 2 | 00-00 | 00-00 | 00-00 | 00-00 | 00-00 |
-| Lab 5 | 00-00 | 00-00 | 00-00 | 00-00 | 00-00 |
-| Lab 6 | 00-00 | 00-00 | 00-00 | 00-00 | 00-00 |
-| **Assessment** | 00-00 | 00-00 | 00-00 | 00-00 | 00-00 |
-| **Assessment** resit | 00-00 | 00-00 | 00-00 | 00-00 | 00-00 |
+| Kickoff | 02-03 | 02-03 | 02-03 | 04-14 | 04-14 |
+| Lab 1 | 02-07 | 02-07 | 02-07 | 04-16 | 04-17 |
+| Lab 2 | 02-14 | 02-14 | 02-14 | 04-23 | 04-24 |
+| Coaching 1 | 02-28 | 02-28 | 02-28 | 05-08 | 05-08 |
+| Lab 3 | 03-06 | 03-06 | 03-06 | 05-14 | 05-15 |
+| Lab 4 | 03-13 | **03-10** | 03-13 | 05-19 | 05-19 |
+| Coaching 2 | 03-20 | 03-20 | 03-20 | 05-28 | 05-29 |
+| Lab 5 | 03-27 | 03-27 | 03-27 | 06-05 | 06-05 |
+| Lab 6 | 04-03 | 04-03 | 04-03 | 06-11 | 06-12 |
+| **Assessment** | 04-09 | 04-09 | **04-08** | 06-17 | 06-18 |
+| **Assessment** resit | 06-22 | 06-25 | 06-26 | 06-23 | 06-23 |
 
 ## Effort
 
@@ -310,6 +314,8 @@ docs and images are [CC-BY-4.0][] © [Titus Wormer][author].
 [author]: https://wooorm.com
 
 [wooorm]: https://github.com/wooorm
+
+[turiguilano]: https://github.com/TuriGuilano
 
 [rouws]: https://github.com/rouws
 
