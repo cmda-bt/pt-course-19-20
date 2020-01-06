@@ -10,8 +10,6 @@ Project Tech is a first stepping stone for you to become a web developer.
 *   [Goals](#goals)
 *   [Calendar](#calendar)
 *   [Effort](#effort)
-*   [Attendance](#attendance)
-*   [Grade](#grade)
 *   [Assessment](#assessment)
 *   [Bugs](#bugs)
 *   [Stress](#stress)
@@ -140,33 +138,6 @@ The below table breaks down the general time needed per week.
 | 8 | 13:45h | Work | lab, work on project |
 | 9 | 12:15h |  | assessment |
 
-## Attendance
-
-This course is highly participatory.
-You are expected to contribute to discussions, give feedback to peers, engage in
-team work, etcetera.
-Attendance to class is not compulsory, but 80% of success is showing up, so show
-up.
-
-This course includes team work.
-Everybody hates that one team mate that doesn’t do anything.
-Don’t be that team mate.
-Participation in team work is compulsory and part of your grade.
-
-This course does not offer office hours.
-Use Slack and show up in class instead.
-
-## Grade
-
-This course is assessed through an oral knowledge test where you present your
-team’s work.
-You are graded individually.
-
-Grades for the course follow standard academic grading of the Netherlands.
-The scale ranges from 1 (very poor) to 10 (outstanding) with marks to one
-decimal place (such as 7.2).
-The lowest pass mark is 5.5.
-
 ## Assessment
 
 For this course you’ll build a *dynamic* and *working* prototype, in a team of
@@ -204,6 +175,33 @@ typically hard to *actually* make that idea into reality.
 Keep your concept as basic as possible (while meeting this course’s criteria).
 Focus on the essentials and when done with those, start adding bells and
 whistles.
+
+### Grade
+
+This course is assessed through an oral knowledge test where you present your
+team’s work.
+You are graded individually.
+
+Grades for the course follow standard academic grading of the Netherlands.
+The scale ranges from 1 (very poor) to 10 (outstanding) with marks to one
+decimal place (such as 7.2).
+The lowest pass mark is 5.5.
+
+### Attendance
+
+This course is highly participatory.
+You are expected to contribute to discussions, give feedback to peers, engage in
+team work, etcetera.
+Attendance to class is not compulsory, but 80% of success is showing up, so show
+up.
+
+This course includes team work.
+Everybody hates that one team mate that doesn’t do anything.
+Don’t be that team mate.
+Participation in team work is compulsory and part of your grade.
+
+This course does not offer office hours.
+Use Slack and show up in class instead.
 
 ## Bugs
 
