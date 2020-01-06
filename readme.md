@@ -68,12 +68,14 @@ use the command line, a text editor, version control, and build tools.
 
 ### Main goal
 
-The goal of this course is that **you’re able to function as a well-rounded (but
-novice) web developer on a team**.
+The goal of this course is:
+
+*   You are able to function as a well-rounded (but novice) web developer on a
+    team
 
 ### Subgoals
 
-In practice you’ll:
+In practice you will:
 
 *   Understand the history of coding (lab 1)
 *   Navigate the command line (lab 1)
@@ -88,7 +90,7 @@ In practice you’ll:
 *   Deal with change and stay up to date (lab 3)
 *   Be able to communicate and manage your time better (lab 4)
 *   Understand why empathy and ethics are important (lab 5)
-*   Know what’s involved with being employed or freelancing (lab 6)
+*   Know what is involved with being employed or freelancing (lab 6)
 
 ## Calendar
 
@@ -140,7 +142,7 @@ The below table breaks down the general time needed per week.
 
 ## Assessment
 
-For this course you’ll build a *dynamic* and *working* prototype, in a team of
+For this course you will build a *dynamic* and *working* prototype, in a team of
 3, with the knowledge and skills acquired in backend and frontend.
 This means that people can *actually* sign up and add or like something.
 *Not* that it is a finished project that is fast, beautiful, secure, scalable,
