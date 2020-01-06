@@ -1,0 +1,54 @@
+{
+  "private": true,
+  "name": "pt",
+  "version": "0.0.0",
+  "description": "Project Tech",
+  "license": "(CC-BY-4.0 AND MIT)",
+  "keywords": [],
+  "repository": "cmda-bt/pt-course-19-20",
+  "bugs": "https://github.com/cmda-bt/pt-course-19-20/issues",
+  "author": "Titus Wormer <tituswormer@gmail.com> (wooorm.com)",
+  "contributors": [
+    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "remark-cli": "^7.0.0",
+    "remark-lint-no-dead-urls": "^1.0.0",
+    "remark-preset-wooorm": "^6.0.0",
+    "xo": "^0.25.0"
+  },
+  "scripts": {
+    "format": "remark . -qo && xo --fix",
+    "test": "npm run format"
+  },
+  "xo": {
+    "space": true,
+    "esnext": false
+  },
+  "remarkConfig": {
+    "settings": {
+      "commonmark": true,
+      "paddedTable": false
+    },
+    "plugins": [
+      "preset-wooorm",
+      [
+        "lint-table-pipe-alignment",
+        false
+      ],
+      [
+        "lint-no-dead-urls",
+        {
+          "skipOffline": true
+        }
+      ],
+      [
+        "toc",
+        {
+          "maxDepth": 2
+        }
+      ]
+    ]
+  }
+}
