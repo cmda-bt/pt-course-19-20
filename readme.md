@@ -238,22 +238,21 @@ conduct][ruc] ([regeling ongewenst gedrag][rog]).
 
 ## Privacy
 
-GDPR and the [Privacy statement of our university][privacy] (which describes how
-we use your personal data and what your rights are) ensure the confidentiality
-of student records.
+GDPR and the [Privacy statement of our university][privacy] ensure the
+confidentiality of student records.
 
 An important part of the educational experience of becoming a web developer is
 to exit the walled garden that is education and to participate, collaborate, and
-join the conversation that is happening around the work field on the internet.
+join the conversation happening around you on the internet.
 Which is what we’ll do in this course.
 
 Students are sometimes reluctant to share work online as they are afraid of
 negative feedback.
 Typically though, poor quality work is ignored rather than ridiculed (in fact,
 most work is ignored).
-Good work in a course like this is instead used by students to land
-future job offers, and the experience of collaborating online often provides a
-positive transformative experience.
+Good work in a course like this is instead used by students to land future job
+offers, and the experience of collaborating online often provides a positive
+transformative experience.
 
 ## Semester
 
