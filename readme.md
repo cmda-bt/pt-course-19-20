@@ -91,7 +91,7 @@ In practice you will:
 *   Deal with change and stay up to date (lab 3)
 *   Be able to communicate and manage your time better (lab 4)
 *   Understand why empathy and ethics are important (lab 5)
-*   Know what is involved with being employed or freelancing (lab 6)
+*   Know what is involved with being employed or contracting (lab 6)
 
 ## Calendar
 
