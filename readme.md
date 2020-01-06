@@ -122,9 +122,10 @@ The below table breaks down the general time needed to complete activities.
 
 | Activity | Effort |
 | -------- | -----: |
-| Lab (6 × 2:30h) | 15:00h |
-| Coaching (2 × 0:20h) | 0:40h |
-| Work on project (8 × 12:30h) | 100:00h |
+| Kickoff | 1:40h |
+| Lab (6 × 3:30h) | 21:00h |
+| Coaching (2 × 0:30h) | 1:00h |
+| Work on project (8 × 11:30h) | 92:00h |
 | Assessment | 1:00h |
 | **Total** | **116:40h** |
 
@@ -134,14 +135,14 @@ The below table breaks down the general time needed per week.
 
 | Week | Effort | Topic | Activities |
 | ---- | -----: | ----- | ---------- |
-| 1 | 15:00h | Background | lab, work on project |
-| 2 | 15:00h | Landscape | lab, work on project |
-| 3 | 12:50h |  | coaching, work on project |
-| 4 | 15:00h | Change | lab, work on project |
-| 5 | 15:00h | Communication | lab, work on project |
-| 6 | 12:50h |  | coaching, work on project |
-| 7 | 15:00h | Empathy | lab, work on project |
-| 8 | 15:00h | Work | lab, work on project |
+| 1 | 17:40h | Background | lab, work on project |
+| 2 | 14:30h | Landscape | lab, work on project |
+| 3 | 12:00h |  | coaching, work on project |
+| 4 | 14:30h | Change | lab, work on project |
+| 5 | 14:30h | Communication | lab, work on project |
+| 6 | 12:00h |  | coaching, work on project |
+| 7 | 14:30h | Empathy | lab, work on project |
+| 8 | 14:30h | Work | lab, work on project |
 | 9 | 1:00h |  | assessment |
 
 ## Assessment
