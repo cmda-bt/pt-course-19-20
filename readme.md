@@ -168,7 +168,7 @@ Progress would look something like this:
 *   Week 8: Deploy, finish up, could-haves
 
 Of course, it’s expected that the progress in practice is more chaotic and
-iteratively.
+iterative.
 
 It’s often relatively easy to come up with a very complex idea, but it’s
 typically hard to *actually* make that idea into reality.
