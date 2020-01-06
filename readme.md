@@ -168,8 +168,8 @@ The lowest pass mark is 5.5.
 
 ## Assessment
 
-For this course you’ll build *dynamic* and *working* prototype, in a team of 3,
-with the knowledge and skills acquired in backend and frontend.
+For this course you’ll build a *dynamic* and *working* prototype, in a team of
+3, with the knowledge and skills acquired in backend and frontend.
 This means that people can *actually* sign up and add or like something.
 *Not* that it is a finished project that is fast, beautiful, secure, scalable,
 or ready to be used right away.
