@@ -190,8 +190,7 @@ The lowest pass mark is 5.5.
 ### Attendance
 
 This course is highly participatory.
-You are expected to contribute to discussions, give feedback to peers, engage in
-team work, etcetera.
+You are expected to contribute to discussions and give feedback to peers.
 Attendance to class is not compulsory, but 80% of success is showing up, so show
 up.
 
@@ -200,7 +199,7 @@ Everybody hates that one team mate that doesn’t do anything.
 Don’t be that team mate.
 Participation in team work is compulsory and part of your grade.
 
-This course does not offer office hours.
+This course does not have office hours.
 Use Slack and show up in class instead.
 
 ## Bugs
