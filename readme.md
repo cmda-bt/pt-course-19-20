@@ -130,15 +130,15 @@ The below table breaks down the general time needed per week.
 
 | Week | Effort | Topic | Activities |
 | ---- | -----: | ----- | ---------- |
-| 1 | 14:00h | Background | lab, assessment |
-| 2 | 14:00h | Landscape | lab, assessment |
-| 3 | 14:00h |  | coaching, assessment |
-| 4 | 14:00h | Change | lab, assessment |
-| 5 | 14:00h | Communication | lab, assessment |
-| 6 | 14:00h |  | coaching, assessment |
-| 7 | 14:00h | Empathy | lab, assessment |
-| 8 | 14:00h | Work | lab, assessment |
-| 9 | 4:40h |  | assessment |
+| 1 | 13:45h | Background | lab, work on project |
+| 2 | 13:45h | Landscape | lab, work on project |
+| 3 | 11:25h |  | coaching, work on project |
+| 4 | 13:45h | Change | lab, work on project |
+| 5 | 13:45h | Communication | lab, work on project |
+| 6 | 11:25h |  | coaching, work on project |
+| 7 | 13:45h | Empathy | lab, work on project |
+| 8 | 13:45h | Work | lab, work on project |
+| 9 | 12:15h |  | assessment |
 
 ## Attendance
 
