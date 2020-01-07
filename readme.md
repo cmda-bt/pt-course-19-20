@@ -15,7 +15,7 @@ Project Tech is a first stepping stone for you to become a web developer.
 *   [Health](#health)
 *   [Conduct](#conduct)
 *   [Privacy](#privacy)
-*   [Semester](#semester)
+*   [Academic integrity](#academic-integrity)
 *   [Program](#program)
 *   [License](#license)
 
@@ -309,7 +309,61 @@ in the future.
 And the experience of collaborating online often provides a positive
 transformative experience.
 
-## Semester
+## Academic integrity
+
+See our university’s sections on [copyright][] and [acknowledging
+sources][acknowledge] and our program’s teaching and examination regulations
+(available in Dutch as [onderwijs- en examenregeling][oer]) for information on
+academic integrity.
+To summarize our stance:
+Credit awarded to a person should represent the work of that person.
+Therefore, we expect that students produce their own original work.
+Collaboration or assistance with work is not permitted unless explicitly
+authorized by instructor(s).
+
+It is required to cite all sources.
+If collaboration or assistance is permitted by instructor(s), any collaboration
+or assistance must be clearly acknowledged.
+Failure to cite or acknowledge is grounds for a charge of cheating or
+plagiarism.
+
+Our program’s teaching and examination regulations § 4, specifically ¶ 4.4,
+gives a definition of plagiarism, of which we paraphrased a couple here:
+
+> b. presenting the structure or central ideas developed by someone else as your
+> own work or ideas, even when a reference to other authors has been included;
+>
+> \[…]
+>
+> e. copying (parts of) media files or other sources, software source codes,
+> models and other diagrams of other people without acknowledgement and allowing
+> it to be held as your own work;
+
+###### Help
+
+In this course, we require you to collaborate with team members.
+We also strongly urge you to help your class mates.
+Please refrain from doing their work for them.
+You can often tell when you cross that line.
+Don’t cross it.
+And always acknowledge when someone helped you.
+
+###### Free and open source software
+
+We strongly urge you to use free and open source software in the form of
+libraries and require you to use Node.js.
+If you find a project on GitHub (or similar platforms), that doesn’t mean that
+you are allowed to use it.
+Projects must have a license that explicitly lets you use it.
+Acknowledge the authors of these works by citing their name and linking to their
+projects.
+
+## Program
+
+This course is given at [communication and multimedia design][program], a design
+bachelor focused on interactive digital products and services.
+CMD is part of the [faculty of digital media and creative industries][faculty]
+at the [Amsterdam University of Applied Sciences][university].
 
 The first three semesters at [**@cmda**][program] are a joint program that
 provides the fundamental knowledge to design and build digital products.
@@ -321,13 +375,6 @@ Together, this cluster provides essential knowledge needed to specialize in
 building the web.
 To continue with web development, choose **[tech track][tt]** in semester 5 and
 **[minor everything web][ew]** in semester 6.
-
-## Program
-
-This course is given at [communication and multimedia design][program], a design
-bachelor focused on interactive digital products and services.
-CMD is part of the [faculty of digital media and creative industries][faculty]
-at the [Amsterdam University of Applied Sciences][university].
 
 ![][cmd-banner]
 
@@ -363,6 +410,12 @@ docs and images are [CC-BY-4.0][] © [Titus Wormer][author].
 [counsel]: https://www.amsterdamuas.com/practical-matters/general/auas/student-affairs/student-counsellors/contact-student-counsellors/student-counsellors.html
 
 [privacy]: https://www.amsterdamuas.com/practical-matters/students/auas/legal-affairs/privacy/privacy.html
+
+[copyright]: https://www.amsterdamuas.com/library/services/copyright/copyrightstart.html
+
+[acknowledge]: https://www.amsterdamuas.com/library/services/acknowledging-sources/acknowledging-sources.html
+
+[oer]: https://studiegids.hva.nl/Onderwijs%20en%20examenregelingen/OER%20CMD%202019-2020%20-%20definitief%20-%20010719.pdf
 
 [mit]: license.md#code
 
