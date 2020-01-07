@@ -157,10 +157,10 @@ What you’ll make is up to the team, but it *must* be a dating site, made with
 Node.js, a database (Mongo?), HTML, CSS, and client-side JS.
 
 It is important that your team makes decisions together based on consensus, and
-everyone applies the knowledge and skills acquired in courses (such as that
-every team member works with templates), and *not* that one person only does
-CSS and the person with pre-existing knowledge does the whole backend or makes
-all decisions.
+everyone applies the knowledge and skills acquired in courses.
+To illustrate, this means every team member works with templates, *not* that one
+person only does CSS and the person with pre-existing knowledge does the whole
+backend (or makes all decisions).
 
 Progress would look something like this:
 
