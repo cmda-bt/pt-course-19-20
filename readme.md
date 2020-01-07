@@ -161,6 +161,8 @@ And that everyone applies knowledge and skills acquired in backend and frontend.
 To illustrate, this means every team member works with templates.
 *Not* that one person does CSS and the person with pre-existing knowledge
 the whole backend.
+So split work per feature (such as liking) instead of per area (such as
+templating).
 
 Progress would look something like this:
 
@@ -181,11 +183,57 @@ It’s typically hard to make a complex idea into reality.
 Keep your concept as basic as possible (while meeting this course’s criteria).
 Focus on essentials first and add bells and whistles later.
 
+### Rubric
+
+<!--lint ignore no-html-->
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th><strong>1-4</strong></th>
+      <th><strong>5-6</strong></th>
+      <th><strong>7-10</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th align="center" scope="row"><strong>Product</strong> (team)</th>
+      <td align="center">Product runs without errors and is dynamic; users can read and add data</td>
+      <td align="center">Product is deployed; users can update or remove data, upload files, sign up, and log in</td>
+      <td align="center">😱<br>Product goes beyond essentials, works well, is fast, beautiful, secure, and scalable; users can match with other users</td>
+    </tr>
+    <tr>
+      <th align="center" scope="row"><strong>Project</strong> (team)</th>
+      <td align="center">Project is handed in on time, on GitHub, and partially documented; Git, Node, and a database are used; code is consistent and documented</td>
+      <td align="center">Project is documented; code adheres to enforced standards</td>
+      <td align="center">📚<br>Docs and code each read like great books; docs are professional; seems like one person wrote the code</td>
+    </tr>
+    <tr>
+      <th align="center" scope="row"><strong>Collaboration</strong> (individual)</th>
+      <td align="center">You contribute to decisions; you review code; you accept feedback/criticism; you made commits</td>
+      <td align="center">You use branches and pull requests; you work on features (such as liking) instead of areas (such as templating)</td>
+      <td align="center">🤝<br>You’re a good communicator and lift other team members up; you clearly learn from each other</td>
+    </tr>
+    <tr>
+      <th align="center" scope="row"><strong>Process</strong> (individual)</th>
+      <td align="center">You participate in coaching sessions; process is documented</td>
+      <td align="center">You show progress</td>
+      <td align="center">💪<br>What you did this course is amazing; you show significant progress</td>
+    </tr>
+  </tbody>
+</table>
+
+> Note: each of this rubric’s rows is cumulative: for example, to get a 5-6
+> on product, you also need to have a 1-4.
+
 ### Grade
 
 This course is assessed through an oral knowledge test where each team presents
 their work.
 You are graded individually.
+Some parts of your grade are based on your team’s achievements, some parts on
+your part in that.
 
 Grades for this course follow standard academic grading of the Netherlands.
 The scale ranges from 1 (very poor) to 10 (outstanding).
