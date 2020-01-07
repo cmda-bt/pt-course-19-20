@@ -154,7 +154,7 @@ This means that people can *actually* sign up and add things.
 or ready to be used right away.
 
 What you’ll make is up to the team, but it *must* be a dating site, made with
-Node.js, a database, HTML, CSS, and client-side JS.
+Node.js, a database (Mongo?), HTML, CSS, and client-side JS.
 
 It is important that your team makes decisions together based on consensus, and
 everyone applies the knowledge and skills acquired in courses (such as that
