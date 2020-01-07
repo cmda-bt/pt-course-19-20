@@ -98,7 +98,7 @@ In practice you will:
 Dates are indicative.
 Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 
-**This is a draft**.
+This is a draft.
 
 | Class | Date BT 1 | Date BT 2 | Date BT 3 | Date BT 4 | Date BT 5 |
 | ----- | :-------: | :-------: | :-------: | :-------: | :-------: |
@@ -107,11 +107,11 @@ Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 | Lab 2 | 02-14 | 02-14 | 02-14 | 04-23 | 04-24 |
 | Coaching 1 | 02-28 | 02-28 | 02-28 | 05-08 | 05-08 |
 | Lab 3 | 03-06 | 03-06 | 03-06 | 05-14 | 05-15 |
-| Lab 4 | 03-13 | **03-10** | 03-13 | 05-19 | 05-19 |
+| Lab 4 | 03-13 | 03-10 | 03-13 | 05-19 | 05-19 |
 | Coaching 2 | 03-20 | 03-20 | 03-20 | 05-28 | 05-29 |
 | Lab 5 | 03-27 | 03-27 | 03-27 | 06-05 | 06-05 |
 | Lab 6 | 04-03 | 04-03 | 04-03 | 06-11 | 06-12 |
-| **Assessment** | 04-09 | 04-09 | **04-08** | 06-17 | 06-18 |
+| **Assessment** | 04-09 | 04-09 | 04-08 | 06-17 | 06-18 |
 | **Assessment** resit | 06-22 | 06-25 | 06-26 | 06-23 | 06-23 |
 
 ## Effort
@@ -148,7 +148,8 @@ This table breaks down expected time needed per week.
 ## Assessment
 
 For this course you will build a *dynamic* and *working* prototype, in a team of
-3, with knowledge and skills acquired in [backend][be] and [frontend][fe].
+3, with knowledge and skills acquired in **[backend][be]** and
+**[frontend][fe]**.
 This means that people can *actually* sign up and add things.
 *Not* that it is a finished project that is fast, beautiful, secure, scalable,
 or ready to be used right away.
@@ -269,7 +270,7 @@ If you have questions:
 
 ## Health
 
-**Please take care of yourself**.
+Please take care of yourself.
 Eat well, exercise, get enough sleep.
 A healthy lifestyle helps to cope with study stress and improves your chances of
 succeeding this period.
@@ -351,7 +352,7 @@ And always acknowledge when someone helped you.
 ###### Free and open source software
 
 We strongly urge you to use free and open source software in the form of
-libraries and require you to use Node.js.
+libraries and require you to use Node.
 If you find a project on GitHub (or similar platforms), that doesn’t mean that
 you are allowed to use it.
 Projects must have a license that explicitly lets you use it.
