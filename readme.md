@@ -176,8 +176,8 @@ Progress would look something like this:
 Of course, it’s expected that the progress in practice is more chaotic and
 iterative.
 
-It’s often relatively easy to come up with a very complex idea, but it’s
-typically hard to *actually* make that idea into reality.
+It’s often relatively easy to come up with a complex idea; it’s typically hard
+to make a complex idea into reality.
 Keep your concept as basic as possible (while meeting this course’s criteria).
 Focus on the essentials and when done with those, start adding bells and
 whistles.
