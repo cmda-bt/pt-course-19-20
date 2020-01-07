@@ -63,7 +63,7 @@ quality.
 
 *   [GitHub][self] — Everything’s here!
 *   [Slack][] (`#project-tech` channel) — General chatter and Q&A
-*   Brightspace — Nothing
+*   Brightspace — Assessment scheduling
 
 ## Goals
 
