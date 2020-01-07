@@ -243,7 +243,7 @@ undesirable conduct][ruc] ([regeling ongewenst gedrag][rog]).
 
 ## Privacy
 
-GDPR and our university’s [Privacy statement][privacy] ensure the
+GDPR and our university’s [privacy statement][privacy] ensure the
 confidentiality of student records.
 
 An important part of the experience of becoming a web developer is to exit the
