@@ -31,9 +31,9 @@ February 3 and June 26.
 *   **Module**: Project Tech (SIS: `265222`; catalog: `2000PTEC16`)
 *   **Coordinator**: Titus Wormer ([**@wooorm**][wooorm])
 *   **Instructors**:
-    Titus Wormer ([**@wooorm**][wooorm]; BT 3, BT 5),
-    Ioannis Kapritsias ([**@TuriGuilano**][turiguilano]; BT 1, BT 4), and
-    Sonja Rouwhorst ([**@rouws**][rouws]; BT 2)
+    Ioannis Kapritsias ([**@TuriGuilano**][turiguilano]; BT 1, BT 4),
+    Sonja Rouwhorst ([**@rouws**][rouws]; BT 2), and
+    Titus Wormer ([**@wooorm**][wooorm]; BT 3, BT 5)
 *   **Credit**: 5 ([ECTS][])
 *   **Effort**: 140 (academic hours of 50 minutes)
 *   **Contact**: 32 (academic hours of 50 minutes)
