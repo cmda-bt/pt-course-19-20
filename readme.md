@@ -233,7 +233,7 @@ This course is assessed through an oral knowledge test where each team presents
 their work.
 You are graded individually.
 Some parts of your grade are based on your team’s achievements, some parts on
-your part in that.
+your role in them.
 
 Grades for this course follow standard academic grading of the Netherlands.
 The scale ranges from 1 (very poor) to 10 (outstanding).
