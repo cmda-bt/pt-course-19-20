@@ -184,8 +184,8 @@ whistles.
 
 ### Grade
 
-This course is assessed through an oral knowledge test where you present your
-team’s work.
+This course is assessed through an oral knowledge test where each team presents
+their work.
 You are graded individually.
 
 Grades for the course follow standard academic grading of the Netherlands.
