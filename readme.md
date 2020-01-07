@@ -148,8 +148,8 @@ The below table breaks down the general time needed per week.
 ## Assessment
 
 For this course you will build a *dynamic* and *working* prototype, in a team of
-3, with the knowledge and skills acquired in backend and frontend.
-This means that people can *actually* sign up and add or like something.
+3, with the knowledge and skills acquired in [backend][be] and [frontend][fe].
+This means that people can *actually* sign up and add things.
 *Not* that it is a finished project that is fast, beautiful, secure, scalable,
 or ready to be used right away.
 
@@ -268,11 +268,12 @@ provides the fundamental knowledge to design and build digital products.
 In the fourth semester students can express individual interest as they take
 electives courses that specialize in certain fields.
 One of these electives is **project tech** (this course), which is chosen along
-with **backend** and **frontend**, forming the cluster **block tech**.
+with **[backend][be]** and **[frontend][fe]**, forming the cluster **block
+tech**.
 Together, this cluster provides the essential knowledge needed to specialize in
 building the web.
-To continue with web development, choose **tech track** in semester 5 and
-**minor everything web** in semester 6.
+To continue with web development, choose **[tech track][tt]** in semester 5 and
+**[minor everything web][ew]** in semester 6.
 
 ## Program
 
@@ -295,6 +296,14 @@ docs and images are [CC-BY-4.0][] © [Titus Wormer][author].
 [faculty]: https://www.amsterdamuas.com/faculty/fdmci/faculty-of-digital-media-and-creative-industries.html
 
 [program]: https://www.cmd-amsterdam.nl/english/
+
+[be]: https://github.com/cmda-bt/be-course-19-20
+
+[fe]: https://github.com/cmda-bt/fe-course-19-20
+
+[tt]: https://github.com/cmda-tt/course-19-20
+
+[ew]: https://everythingweb.org
 
 [cmd-banner]: image/cmd.jpg
 
