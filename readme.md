@@ -52,12 +52,12 @@ This course continues where earlier courses left off with HTML, CSS, JS,
 research, design, project management, etcetera.
 
 We’ll focus on what it means to be a web dev, the current landscape of that
-space, and topics such as code quality, ethics, privacy, security, empathy,
-diversity, inclusion, accessibility, communication, time management, team work,
-and more.
+space, and topics such as ethics, privacy, security, empathy, diversity,
+inclusion, accessibility, communication, time management, team work, and more.
 
 You’ll learn about those “softer” skills and “harder” essentials such as how to
-use the command line, a text editor, version control, and build tools.
+use the command line, a text editor, version control, build tools, and code
+quality.
 
 ## Communication
 
