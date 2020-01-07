@@ -164,13 +164,12 @@ backend (or makes all decisions).
 
 Progress would look something like this:
 
-*   Week 1: Do research and come up with a concept
-*   Week 2: Set up project, write a readme, make a sitemap and sketches, paper
-    prototype
+*   Week 1: Research, come up with concept
+*   Week 2: Project set up, readme, sitemap and sketches, paper prototype
 *   Week 3: HTML, CSS
-*   Week 4: Routes, templates, render data
+*   Week 4: Routes, templates, render
 *   Week 5: Data model, database, GET
-*   Week 6: Accounts (signing up, logging in and out), POST, DELETE
+*   Week 6: Accounts (sign up, log in), POST, DELETE
 *   Week 7: Matching, usability, progressive enhancement, should-haves
 *   Week 8: Deploy, finish up, could-haves
 
