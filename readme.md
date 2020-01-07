@@ -245,8 +245,8 @@ The lowest pass mark is 5.5.
 
 This course is highly participatory.
 You are expected to contribute to discussions and give feedback to peers.
-Attendance to class is not compulsory, but 80% of success is showing up, so show
-up.
+Attendance to class is not compulsory.
+80% of success is showing up though, so show up.
 
 This course includes team work.
 Everybody hates that one team mate that doesn’t do anything.
