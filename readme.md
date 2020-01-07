@@ -118,7 +118,7 @@ Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 
 ###### Per activity
 
-The below table breaks down the general time needed to complete activities.
+This table breaks down expected time needed to complete activities.
 
 | Activity | Effort |
 | -------- | -----: |
@@ -131,7 +131,7 @@ The below table breaks down the general time needed to complete activities.
 
 ###### Per week
 
-The below table breaks down the general time needed per week.
+This table breaks down expected time needed per week.
 
 | Week | Effort | Topic | Activities |
 | ---- | -----: | ----- | ---------- |
@@ -156,11 +156,12 @@ or ready to be used right away.
 What you’ll make is up to the team, but it *must* be a dating site, made with
 Node.js, a database (Mongo?), HTML, CSS, and client-side JS.
 
-It is important that your team makes decisions together based on consensus, and
-everyone applies the knowledge and skills acquired in courses.
-To illustrate, this means every team member works with templates, *not* that one
-person only does CSS and the person with pre-existing knowledge does the whole
-backend (or makes all decisions).
+It is important that your team makes decisions together based on consensus.
+And that everyone applies the knowledge and skills acquired in backend and
+frontend.
+To illustrate, this means every team member works with templates.
+*Not* that one person does CSS and the person with pre-existing knowledge
+the whole backend.
 
 Progress would look something like this:
 
@@ -173,13 +174,13 @@ Progress would look something like this:
 *   Week 7: Matching, usability, progressive enhancement, should-haves
 *   Week 8: Deploy, finish up, could-haves
 
-Of course, it’s expected that the progress in practice is more chaotic and
+Of course, it’s expected that progress in practice is more chaotic and
 iterative.
 
-It’s often relatively easy to come up with a complex idea; it’s typically hard
-to make a complex idea into reality.
+It’s often relatively easy to come up with a complex idea.
+It’s typically hard to make a complex idea into reality.
 Keep your concept as basic as possible (while meeting this course’s criteria).
-Focus on the essentials and when done with those add bells and whistles.
+Focus on the essentials first and add bells and whistles later.
 
 ### Grade
 
@@ -223,9 +224,10 @@ If you have questions:
 
 **Please take care of yourself**.
 Eat well, exercise, get enough sleep.
-A healthy lifestyle improves your chances of succeeding this period and to cope
-with study stress (concentration problems, exam stress, failure anxiety,
-procrastination)
+A healthy lifestyle helps to cope with study stress and improves your chances of
+succeeding this period.
+Study stress includes for example concentration problems, exam stress, failure
+anxiety, or procrastination.
 
 If you are experiencing difficulties, know that help is available.
 Please contact your [student counsellor][counsel] for help with study stress,
@@ -237,9 +239,8 @@ This course has a [code of conduct][coc].
 Anyone interacting with this repository, organization, or community is bound by
 it.
 
-Staff and students of the Amsterdam University of Applied Sciences (Hogeschool
-van Amsterdam) are additionally bound by the [regulation undesirable
-conduct][ruc] ([regeling ongewenst gedrag][rog]).
+Staff and students of the AUAS (HvA) are additionally bound by the [regulation
+undesirable conduct][ruc] ([regeling ongewenst gedrag][rog]).
 
 ## Privacy
 
@@ -255,8 +256,9 @@ Students are sometimes reluctant to share work online as they are afraid of
 negative feedback.
 Typically though, poor quality work is ignored rather than ridiculed (in fact,
 most work is ignored).
-Good work in a course like this is instead used by students to land future job
-offers, and the experience of collaborating online often provides a positive
+Good work in a course like this is instead used by students to land job offers
+in the future.
+And the experience of collaborating online often provides a positive
 transformative experience.
 
 ## Semester
