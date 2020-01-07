@@ -148,7 +148,7 @@ This table breaks down expected time needed per week.
 ## Assessment
 
 For this course you will build a *dynamic* and *working* prototype, in a team of
-3, with the knowledge and skills acquired in [backend][be] and [frontend][fe].
+3, with knowledge and skills acquired in [backend][be] and [frontend][fe].
 This means that people can *actually* sign up and add things.
 *Not* that it is a finished project that is fast, beautiful, secure, scalable,
 or ready to be used right away.
@@ -157,8 +157,7 @@ What you’ll make is up to the team, but it *must* be a dating site, made with
 Node.js, a database (Mongo?), HTML, CSS, and client-side JS.
 
 It is important that your team makes decisions together based on consensus.
-And that everyone applies the knowledge and skills acquired in backend and
-frontend.
+And that everyone applies knowledge and skills acquired in backend and frontend.
 To illustrate, this means every team member works with templates.
 *Not* that one person does CSS and the person with pre-existing knowledge
 the whole backend.
@@ -180,7 +179,7 @@ iterative.
 It’s often relatively easy to come up with a complex idea.
 It’s typically hard to make a complex idea into reality.
 Keep your concept as basic as possible (while meeting this course’s criteria).
-Focus on the essentials first and add bells and whistles later.
+Focus on essentials first and add bells and whistles later.
 
 ### Grade
 
@@ -188,9 +187,9 @@ This course is assessed through an oral knowledge test where each team presents
 their work.
 You are graded individually.
 
-Grades for the course follow standard academic grading of the Netherlands.
-The scale ranges from 1 (very poor) to 10 (outstanding) with marks to one
-decimal place (such as 7.2).
+Grades for this course follow standard academic grading of the Netherlands.
+The scale ranges from 1 (very poor) to 10 (outstanding).
+We use marks to one decimal place (such as 7.2).
 The lowest pass mark is 5.5.
 
 ### Attendance
@@ -239,17 +238,18 @@ This course has a [code of conduct][coc].
 Anyone interacting with this repository, organization, or community is bound by
 it.
 
-Staff and students of the AUAS (HvA) are additionally bound by the [regulation
+Staff and students of AUAS (HvA) are additionally bound by the [regulation
 undesirable conduct][ruc] ([regeling ongewenst gedrag][rog]).
 
 ## Privacy
 
-GDPR and the [Privacy statement of our university][privacy] ensure the
+GDPR and our university’s [Privacy statement][privacy] ensure the
 confidentiality of student records.
 
-An important part of the educational experience of becoming a web developer is
-to exit the walled garden that is education and to participate, collaborate, and
-join the conversation happening around you on the internet.
+An important part of the experience of becoming a web developer is to exit the
+walled garden that is formal education.
+To participate, collaborate, and join the conversation happening around you on
+the internet.
 Which is what we’ll do in this course.
 
 Students are sometimes reluctant to share work online as they are afraid of
@@ -268,9 +268,8 @@ provides the fundamental knowledge to design and build digital products.
 In the fourth semester students can express individual interest as they take
 electives courses that specialize in certain fields.
 One of these electives is **project tech** (this course), which is chosen along
-with **[backend][be]** and **[frontend][fe]**, forming the cluster **block
-tech**.
-Together, this cluster provides the essential knowledge needed to specialize in
+with **[backend][be]** and **[frontend][fe]**, forming cluster **block tech**.
+Together, this cluster provides essential knowledge needed to specialize in
 building the web.
 To continue with web development, choose **[tech track][tt]** in semester 5 and
 **[minor everything web][ew]** in semester 6.
