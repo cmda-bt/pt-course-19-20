@@ -179,8 +179,7 @@ iterative.
 It’s often relatively easy to come up with a complex idea; it’s typically hard
 to make a complex idea into reality.
 Keep your concept as basic as possible (while meeting this course’s criteria).
-Focus on the essentials and when done with those, start adding bells and
-whistles.
+Focus on the essentials and when done with those add bells and whistles.
 
 ### Grade
 
