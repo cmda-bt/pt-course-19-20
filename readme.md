@@ -210,7 +210,7 @@ Focus on essentials first and add bells and whistles later.
     </tr>
     <tr>
       <th align="center" scope="row"><strong>Collaboration</strong> (individual)</th>
-      <td align="center">You contribute to decisions; you review code; you accept feedback/criticism; you commit</td>
+      <td align="center">You contribute to decisions; you don’t force your opinion on others; you review code; you accept feedback/criticism; you commit; you work together</td>
       <td align="center">You use branches and pull requests; you work on features (such as liking) instead of areas (such as templating)</td>
       <td align="center">🤝<br>You’re a good communicator and lift other team members up; you clearly learn from each other</td>
     </tr>
