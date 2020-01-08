@@ -131,17 +131,17 @@ This table breaks down expected time needed to complete activities.
 
 This table breaks down expected time needed per week.
 
-| Week | Effort | Topic | Activities |
-| ---- | -----: | ----- | ---------- |
-| 1 | 16:40h | Background | lab, work on project |
-| 2 | 15:00h | Landscape | lab, work on project |
-| 3 | 12:00h |  | coaching, work on project |
-| 4 | 15:00h | Change | lab, work on project |
-| 5 | 15:00h | Communication | lab, work on project |
-| 6 | 12:00h |  | coaching, work on project |
-| 7 | 15:00h | Empathy | lab, work on project |
-| 8 | 15:00h | Work | lab, work on project |
-| 9 | 1:00h |  | assessment |
+| Week | Effort | Activities |
+| ---- | -----: | ---------- |
+| 1 | 16:40h | lab, work on project |
+| 2 | 15:00h | lab, work on project |
+| 3 | 12:00h | coaching, work on project |
+| 4 | 15:00h | lab, work on project |
+| 5 | 15:00h | lab, work on project |
+| 6 | 12:00h | coaching, work on project |
+| 7 | 15:00h | lab, work on project |
+| 8 | 15:00h | lab, work on project |
+| 9 | 1:00h | assessment |
 
 ## Assessment
 
