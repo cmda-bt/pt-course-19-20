@@ -165,14 +165,14 @@ templating).
 
 Progress would look something like this:
 
-*   Week 1: Research, come up with concept
-*   Week 2: Project set up, readme, sitemap and sketches, paper prototype
-*   Week 3: HTML, CSS
+*   Week 1: Kickoff
+*   Week 2: Research, concept, sitemap, sketches
+*   Week 3: Project setup, readme, HTML, CSS, empty JS
 *   Week 4: Routes, templates, render
-*   Week 5: Data model, database, GET
-*   Week 6: Accounts (sign up, log in), POST, DELETE
-*   Week 7: Matching, usability, progressive enhancement, should-haves
-*   Week 8: Deploy, finish up, could-haves
+*   Week 5: Create, update, delete
+*   Week 6: Data model, database
+*   Week 7: Accounts, matching, deploy
+*   Week 8: Usability, progressive enhancement, finish up
 
 Of course, it’s expected that progress in practice is more chaotic and
 iterative.
