@@ -67,14 +67,14 @@ quality.
 
 ## Goals
 
-### Main goal
+###### Main goal
 
 The goal of this course is:
 
 *   You are able to function as a well-rounded (but novice) web developer on a
     team
 
-### Subgoals
+###### Subgoals
 
 In practice you will:
 
@@ -184,7 +184,7 @@ It’s typically hard to make a complex idea into reality.
 Keep your concept as basic as possible (while meeting this course’s criteria).
 Focus on essentials first and add bells and whistles later.
 
-### Rubric
+###### Rubric
 
 <!--lint ignore no-html-->
 
@@ -228,7 +228,7 @@ Focus on essentials first and add bells and whistles later.
 > Note: each of this rubric’s rows is cumulative: for example, to get a 5-6
 > on product, you also need to have a 1-4.
 
-### Grade
+###### Grade
 
 This course is assessed through an oral knowledge test where each team presents
 their work.
@@ -241,7 +241,7 @@ The scale ranges from 1 (very poor) to 10 (outstanding).
 We use marks to one decimal place (such as 7.2).
 The lowest pass mark is 5.5.
 
-### Attendance
+###### Attendance
 
 This course is highly participatory.
 You are expected to contribute to discussions and give feedback to peers.
