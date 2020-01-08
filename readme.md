@@ -98,8 +98,6 @@ In practice you will:
 Dates are indicative.
 Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 
-This is a draft.
-
 | Class | Date BT 1 | Date BT 2 | Date BT 3 | Date BT 4 | Date BT 5 |
 | ----- | :-------: | :-------: | :-------: | :-------: | :-------: |
 | Kickoff | 02-03 | 02-03 | 02-03 | 04-14 | 04-14 |
