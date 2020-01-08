@@ -206,7 +206,7 @@ Focus on essentials first and add bells and whistles later.
       <th align="center" scope="row"><strong>Project</strong> (team)</th>
       <td align="center">Project is handed in on time, on GitHub, and partially documented; Git, Node, and a database are used; code is consistent and documented</td>
       <td align="center">Project is documented; code adheres to enforced standards</td>
-      <td align="center">📚<br>Docs and code each read like great books; docs are professional; seems like one person wrote the code</td>
+      <td align="center">📚<br>Docs and code each read like great books; docs are professional; as if one person wrote the code (in a good way)</td>
     </tr>
     <tr>
       <th align="center" scope="row"><strong>Collaboration</strong> (individual)</th>
