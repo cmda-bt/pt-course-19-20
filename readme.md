@@ -22,7 +22,7 @@ Project Tech is a first stepping stone for you to become a web developer.
 ## Synopsis
 
 Project Tech is a [**@cmda**][program] course given in 2020 between
-February 3 and June 26.
+either February 3 and April 3 or April 14 and June 18.
 
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Faculty**: [Digital Media and Creative Industries][faculty]
