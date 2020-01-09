@@ -309,6 +309,10 @@ in the future.
 And the experience of collaborating online often provides a positive
 transformative experience.
 
+If you are afraid of stalkers, don’t want your family finding out what you work
+on, or for other reasons want to stay anonymous in the online parts of our
+course, you may use an anonymous username, email address, and avatar.
+
 ## Academic integrity
 
 See our university’s sections on [copyright][] and [acknowledging
