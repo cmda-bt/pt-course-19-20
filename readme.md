@@ -298,6 +298,7 @@ walled garden that is formal education.
 To participate, collaborate, and join the conversation happening around you on
 the internet.
 Which is what we’ll do in this course.
+And why we asked you to sign a waiver to join this course.
 
 Students are sometimes reluctant to share work online as they are afraid of
 negative feedback.
