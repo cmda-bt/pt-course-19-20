@@ -48,12 +48,12 @@ either February 3 and April 3 or April 14 and June 18.
 
 Project Tech is a first stepping stone for you to become a well-rounded web
 developer (or a designer with knowledge of how things are made).
-This course continues where earlier courses left off with HTML, CSS, JS,
-research, design, project management, etcetera.
+This course continues where earlier courses left off with topics such as HTML,
+CSS, JS, research, design, and project management.
 
 We’ll focus on what it means to be a web dev, the current landscape of that
 space, and topics such as ethics, privacy, security, empathy, diversity,
-inclusion, accessibility, communication, time management, team work, and more.
+inclusion, accessibility, communication, time management, and team work.
 
 You’ll learn about those “softer” skills and “harder” essentials such as how to
 use the command line, a text editor, version control, build tools, and code
