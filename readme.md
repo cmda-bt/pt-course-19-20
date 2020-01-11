@@ -278,6 +278,9 @@ anxiety, or procrastination.
 If you are experiencing difficulties, know that help is available.
 Please contact your [student counsellor][counsel] for help with study stress,
 dyslexia, disabilities, chronic illness, personal problems, etc.
+The [UvA psychologist’s office][psychologist] also offers various types of
+support, such as workshops, training sessions, and consultation.
+As a AUAS student you can get support and do not need a referral.
 
 ## Conduct
 
@@ -412,6 +415,8 @@ docs and images are [CC-BY-4.0][] © [Titus Wormer][author].
 [rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html?origin=gbS4rg%2FDTZuxQ6lGVF%2BN1A
 
 [counsel]: https://www.amsterdamuas.com/practical-matters/general/auas/student-affairs/student-counsellors/contact-student-counsellors/student-counsellors.html
+
+[psychologist]: https://student.uva.nl/en/content/az/psychologists/psychologists.html
 
 [privacy]: https://www.amsterdamuas.com/practical-matters/students/auas/legal-affairs/privacy/privacy.html
 
