@@ -101,13 +101,16 @@ Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 | Class | Date BT 1 | Date BT 2 | Date BT 3 | Date BT 4 | Date BT 5 |
 | ----- | :-------: | :-------: | :-------: | :-------: | :-------: |
 | Kickoff | 02-03 | 02-03 | 02-03 | 04-14 | 04-14 |
+| Lecture 1 |  |  |  |  |  |
 | Lab 1 | 02-07 | 02-07 | 02-07 | 04-16 | 04-17 |
 | Lab 2 | 02-14 | 02-14 | 02-14 | 04-23 | 04-24 |
 | Coaching 1 | 02-28 | 02-28 | 02-28 | 05-08 | 05-08 |
 | Lab 3 | 03-06 | 03-06 | 03-06 | 05-14 | 05-15 |
 | Lab 4 | 03-13 | 03-10 | 03-13 | 05-19 | 05-19 |
 | Coaching 2 | 03-20 | 03-20 | 03-20 | 05-28 | 05-29 |
+| Guest lecture 1 |  |  |  |  |  |
 | Lab 5 | 03-27 | 03-27 | 03-27 | 06-05 | 06-05 |
+| Guest lecture 2 |  |  |  |  |  |
 | Lab 6 | 04-03 | 04-03 | 04-03 | 06-11 | 06-12 |
 | **Assessment** | 04-09 | 04-09 | 04-08 | 06-17 | 06-18 |
 | **Assessment** resit | 06-22 | 06-25 | 06-26 | 06-23 | 06-23 |
@@ -121,7 +124,8 @@ This table breaks down expected time needed to complete activities.
 | Activity | Effort |
 | -------- | -----: |
 | Kickoff | 1:40h |
-| Lab (6 × 3:30h) | 21:00h |
+| Lab (3 × 1:45h, 3 × 3:30h) | 15:45h |
+| Lecture (3 × 1:45h) | 5:15h |
 | Coaching (2 × 0:30h) | 1:00h |
 | Work on project (8 × 11:30h) | 92:00h |
 | Assessment | 1:00h |
@@ -133,14 +137,14 @@ This table breaks down expected time needed per week.
 
 | Week | Effort | Activities |
 | ---- | -----: | ---------- |
-| 1 | 16:40h | lab, work on project |
+| 1 | 16:40h | kickoff, lecture, lab, work on project |
 | 2 | 15:00h | lab, work on project |
 | 3 | 12:00h | coaching, work on project |
 | 4 | 15:00h | lab, work on project |
 | 5 | 15:00h | lab, work on project |
 | 6 | 12:00h | coaching, work on project |
-| 7 | 15:00h | lab, work on project |
-| 8 | 15:00h | lab, work on project |
+| 7 | 15:00h | lecture, lab, work on project |
+| 8 | 15:00h | lecture, lab, work on project |
 | 9 | 1:00h | assessment |
 
 ## Assessment
