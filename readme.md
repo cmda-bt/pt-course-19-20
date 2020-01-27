@@ -441,6 +441,8 @@ docs and images are [CC-BY-4.0][] © [Titus Wormer][author].
 
 [rouws]: https://github.com/rouws
 
+[michaeldzjap] : https://github.com/michaeldzjap
+
 [ects]: https://www.amsterdamuas.com/practical-matters/prospective-students/auas/student-affairs/ects-credits/ects-credits.html
 
 [self]: https://github.com/cmda-bt/pt-course-19-20
