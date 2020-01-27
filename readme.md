@@ -29,11 +29,10 @@ either February 3 and April 3 or April 14 and June 18.
 *   **Program**: [Communication and Multimedia Design][program] (full time
     bachelor, CROHO: `34092`)
 *   **Module**: Project Tech (SIS: `265222`; catalog: `2000PTEC16`)
-*   **Coordinator**: Titus Wormer ([**@wooorm**][wooorm])
 *   **Instructors**:
     Ioannis Kapritsias ([**@TuriGuilano**][turiguilano]; BT 1, BT 4),
     Sonja Rouwhorst ([**@rouws**][rouws]; BT 2), and
-    Titus Wormer ([**@wooorm**][wooorm]; BT 3, BT 5)
+    Michael Dzjaparidze ([**@michaeldzjap**][michaeldzjap]; BT 3, BT 5)
 *   **Credit**: 5 ([ECTS][])
 *   **Effort**: 140 (academic hours of 50 minutes)
 *   **Contact**: 32 (academic hours of 50 minutes)
