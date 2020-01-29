@@ -1,4 +1,4 @@
-# Project Tech - Course 2019-2020
+# Project Tech - 2019-2020
 
 Project Tech is a first stepping stone for you to become a web developer.
 
@@ -21,8 +21,8 @@ Project Tech is a first stepping stone for you to become a web developer.
 
 ## Synopsis
 
-Project Tech is a [**@cmda**][program] course given in 2020 between
-either February 3 and April 3 or April 14 and June 18.
+Project Tech is a [**@cmda**][program] project given in 2020 between
+either February 3 and April 3 or April 14 and June 18. You will become a well-rounded (but novice) web developer on a team
 
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Faculty**: [Digital Media and Creative Industries][faculty]
@@ -45,52 +45,51 @@ either February 3 and April 3 or April 14 and June 18.
 
 ## Description
 
-Project Tech is a first stepping stone for you to become a well-rounded web
-developer (or a designer with knowledge of how things are made).
-This course continues where earlier courses left off with topics such as HTML,
+**Project Tech** is a first stepping stone for you to become a well-rounded web
+developer (or a designer with knowledge of how things are made). You'll build a dynamic prototype of a web application. This project continues where earlier courses left off with topics such as HTML,
 CSS, JS, research, design, and project management.
 
 We’ll focus on what it means to be a web dev, the current landscape of that
-space, and topics such as ethics, privacy, security, empathy, diversity,
-inclusion, accessibility, communication, time management, and team work.
+space, and topics such as privacy, security, diversity,
+inclusion, accessibility, communication and team work.
 
 You’ll learn about those “softer” skills and “harder” essentials such as how to
 use the command line, a text editor, version control, build tools, and code
 quality.
 
+
 ## Communication
 
 *   [GitHub][self] — Everything’s here!
 *   [Slack][] (`#project-tech` channel) — General chatter and Q&A
-*   Brightspace — Assessment and coaching scheduling
+*   [Project Tech on Brightspace][brightspace_pt] — Assessment and coaching scheduling
 
 ## Goals
 
-###### Main goal
+###### Main goals
 
-The goal of this course is:
+The main goals in this project are:
 
-*   You are able to function as a well-rounded (but novice) web developer on a
-    team
+*   You can design a part of a dynamic web application
+*   You can research current topics in web development (such as code standards, code style, version control, local development setup)
+*   You can collaborate with other developers (do version control with github, use code standards and code style, document your project)
+*   You can recognise good quality code and review other people's code.
+
 
 ###### Subgoals
 
 In practice you will:
 
-*   Understand the history of coding (lab 1)
-*   Navigate the command line (lab 1)
 *   Version control with Git (lab 1)
-*   Collaborate on GitHub (lab 1)
 *   Write docs in Markdown (lab 1)
-*   Customize your local machine (lab 1)
-*   Understand the current landscape of web dev (lab 2)
-*   Value a consistent code style and adhere to code standards (lab 2)
-*   Debug and use dev tools (lab 2)
-*   Review code (lab 2)
-*   Deal with change and stay up to date (lab 3)
-*   Be able to communicate and manage your time better (lab 4)
-*   Understand why empathy and ethics are important (lab 5)
-*   Know what is involved with being employed or contracting (lab 6)
+*   Navigate the command line (lab 2)
+*   Set up a Github repository (lab 2)
+*   Understand the current landscape of web dev (lab 4)
+*   Value a consistent code style and adhere to code standards (lab 4)
+*   Customize your local machine (lab 4)
+*   Collaborate on GitHub (lab 5)
+*   Review code (lab 5)
+*   Think about privacy and security issues (lab 7)
 
 ## Calendar
 
@@ -99,20 +98,17 @@ Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 
 | Class | Date BT 1 | Date BT 2 | Date BT 3 | Date BT 4 | Date BT 5 |
 | ----- | :-------: | :-------: | :-------: | :-------: | :-------: |
-| Kickoff | 02-03 | 02-03 | 02-03 | 04-14 | 04-14 |
-| Lecture 1 |  |  |  |  |  |
-| Lab 1 | 02-07 | 02-07 | 02-07 | 04-16 | 04-17 |
-| Lab 2 | 02-14 | 02-14 | 02-14 | 04-23 | 04-24 |
-| Coaching 1 | 02-28 | 02-28 | 02-28 | 05-08 | 05-08 |
-| Lab 3 | 03-06 | 03-06 | 03-06 | 05-14 | 05-15 |
-| Lab 4 | 03-13 | 03-10 | 03-13 | 05-19 | 05-19 |
-| Coaching 2 | 03-20 | 03-20 | 03-20 | 05-28 | 05-29 |
-| Guest lecture 1 |  |  |  |  |  |
-| Lab 5 | 03-27 | 03-27 | 03-27 | 06-05 | 06-05 |
-| Guest lecture 2 |  |  |  |  |  |
-| Lab 6 | 04-03 | 04-03 | 04-03 | 06-11 | 06-12 |
-| **Assessment** | 04-09 | 04-09 | 04-08 | 06-17 | 06-18 |
-| **Assessment** resit | 06-22 | 06-25 | 06-26 | 06-23 | 06-23 |
+| Kickoff | feb 3rd | feb 3rd | feb 3rd | apr 14th | apr 14th |
+| Lab 1 | feb 7th | feb 7th | feb 7th | 04-16 | 04-17 |
+| Lab 2 | feb 14th | feb 14th | feb 14th | apr 23rd | apr 24th |
+| Present static prototype | feb 28th | feb 28th | feb 28th | may 8th | may 8th |
+| Lab 4 | mar 6th | mar 6th | mar 6th | may 14th | may 15th |
+| Lab 5 | mar 13th | mar 10th | mar 13th | may 19th | may 19th |
+| Present indiv. assignment | mar 20th | mar 20th | mar 20th | may 28th | may 29th |
+| Lab 7 | mar 27th | mar 27th | mar 27th | jun 5th | jun 5th |
+| Lab 8 | apr 3rd | apr 3rd | apr 3rd | jun 11th | jun 12th |
+| **Assessment** | apr 9th | apr 9th | apr 8th | jun 17th | jun 18th |
+| **Assessment** resit | 06-22 | 06-25 | 06-26 | jun 23rd | jun 23rd |
 
 ## Effort
 
@@ -130,34 +126,14 @@ This table breaks down expected time needed to complete activities.
 | Assessment | 1:00h |
 | **Total** | **116:40h** |
 
-###### Per week
+## Assignment
 
-This table breaks down expected time needed per week.
+For this project you will build a *dynamic* and *working* prototype of a dating application made with Node.js, a database (Mongo?), HTML, CSS, and client-side JS. This means that people can *actually* sign up and add things. *Not* that it is a finished project that is fast, beautiful, secure, scalable, or ready to be used right away.
 
-| Week | Effort | Activities |
-| ---- | -----: | ---------- |
-| 1 | 16:40h | kickoff, lecture, lab, work on project |
-| 2 | 15:00h | lab, work on project |
-| 3 | 12:00h | coaching, work on project |
-| 4 | 15:00h | lab, work on project |
-| 5 | 15:00h | lab, work on project |
-| 6 | 12:00h | coaching, work on project |
-| 7 | 15:00h | lecture, lab, work on project |
-| 8 | 15:00h | lecture, lab, work on project |
-| 9 | 1:00h | assessment |
+The first part of the project you will work individually on a job story. You will do research on existing dating apps and come up with a job story. You then start sketching and designing the components within your job story. You end with a working prototype of your job story using knowledge and skills acquired in **[backend][be]** and
+**[frontend][fe]**
 
-## Assessment
-
-For this course you will build a *dynamic* and *working* prototype, in a team of
-3, with knowledge and skills acquired in **[backend][be]** and
-**[frontend][fe]**.
-This means that people can *actually* sign up and add things.
-*Not* that it is a finished project that is fast, beautiful, secure, scalable,
-or ready to be used right away.
-
-What you’ll make is up to the team, but it *must* be a dating site, made with
-Node.js, a database (Mongo?), HTML, CSS, and client-side JS.
-
+In the second part of the project, you will create a team of 3 students and combine your job stories into one complete dating app.
 It is important that your team makes decisions together based on consensus.
 And that everyone applies knowledge and skills acquired in backend and frontend.
 To illustrate, this means every team member works with templates.
@@ -169,92 +145,45 @@ templating).
 Progress would look something like this:
 
 *   Week 1: Kickoff
-*   Week 2: Research, concept, sitemap, sketches
-*   Week 3: Project setup, readme, HTML, CSS, empty JS
-*   Week 4: Routes, templates, render
-*   Week 5: Create, update, delete
-*   Week 6: Data model, database
-*   Week 7: Accounts, matching, deploy
-*   Week 8: Usability, progressive enhancement, finish up
+*   Week 2: Benchmark creation, style guides, job story
+*   Week 3: Wireflow, wireframes, static site, github setup
+*   Week 4: Readme, routes, templates, render
+*   Week 5: Database, create, update, delete
+*   Week 6: Progressive enhancement, complete job story done (individual assignment)
+*   Week 7: Create and design team project, github setup
+*   Week 8: Finish up (team assignment)
 
 Of course, it’s expected that progress in practice is more chaotic and
 iterative.
 
 It’s often relatively easy to come up with a complex idea.
 It’s typically hard to make a complex idea into reality.
-Keep your concept as basic as possible (while meeting this course’s criteria).
+Keep your concept as basic as possible (while meeting this project’s criteria).
 Focus on essentials first and add bells and whistles later.
 
-###### Rubric
-
-<!--lint ignore no-html-->
-
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th><strong>1-4</strong></th>
-      <th><strong>5-6</strong></th>
-      <th><strong>7-10</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th align="center" scope="row"><strong>Product</strong> (team)</th>
-      <td align="center">Product runs without errors and is dynamic; users can read and add data</td>
-      <td align="center">Product is deployed; users can update or remove data, upload files, sign up, and log in</td>
-      <td align="center">😱<br>Product goes beyond essentials, works well, is fast, beautiful, secure, and scalable; users can match with other users</td>
-    </tr>
-    <tr>
-      <th align="center" scope="row"><strong>Project</strong> (team)</th>
-      <td align="center">Project is handed in on time, on GitHub, and partially documented; Git, Node, and a database are used; code is consistent and documented</td>
-      <td align="center">Project is documented; code adheres to enforced standards</td>
-      <td align="center">📚<br>Docs and code each read like great books; docs are professional; as if one person wrote the code (in a good way)</td>
-    </tr>
-    <tr>
-      <th align="center" scope="row"><strong>Collaboration</strong> (individual)</th>
-      <td align="center">You contribute to decisions; you don’t force your opinion on others; you review code; you accept feedback/criticism; you commit; you work together</td>
-      <td align="center">You use branches and pull requests; you work on features (such as liking) instead of areas (such as templating)</td>
-      <td align="center">🤝<br>You’re a good communicator and lift other team members up; you clearly learn from each other</td>
-    </tr>
-    <tr>
-      <th align="center" scope="row"><strong>Process</strong> (individual)</th>
-      <td align="center">You participate in coaching sessions; process is documented</td>
-      <td align="center">You show progress</td>
-      <td align="center">💪<br>What you did this course is amazing; you show significant progress</td>
-    </tr>
-  </tbody>
-</table>
-
-> Note: each of this rubric’s rows is cumulative: for example, to get a 5-6
-> on product, you also need to have a 1-4.
 
 ###### Grade
 
-This course is assessed through an oral knowledge test where each team presents
-their work.
-You are graded individually.
-Some parts of your grade are based on your team’s achievements, some parts on
-your role in them.
+This project consists of two parts: first an individual assignment, then a team assignment. Both assignments get a grade (1-10) and both assignments have equal weight (50% - 50%) in the final grade of the project. The two assignments can compensate each other.
 
-Grades for this course follow standard academic grading of the Netherlands.
+Grades for this project follow standard academic grading of the Netherlands.
 The scale ranges from 1 (very poor) to 10 (outstanding).
 We use marks to one decimal place (such as 7.2).
 The lowest pass mark is 5.5.
 
 ###### Attendance
 
-This course is highly participatory.
+This project is highly participatory.
 You are expected to contribute to discussions and give feedback to peers.
 Attendance to class is not compulsory.
 80% of success is showing up though, so show up.
 
-This course includes team work.
+This project includes team work.
 Everybody hates that one team mate that doesn’t do anything.
 Don’t be that team mate.
 Participation in team work is compulsory and part of your grade.
 
-This course does not have office hours.
+This project does not have office hours.
 Use Slack and show up in class instead.
 
 ## Bugs
@@ -287,7 +216,7 @@ As a AUAS student you can get support and do not need a referral.
 
 ## Conduct
 
-This course has a [code of conduct][coc].
+This project has a [code of conduct][coc].
 Anyone interacting with this repository, organization, or community is bound by
 it.
 
@@ -303,21 +232,21 @@ An important part of the experience of becoming a web developer is to exit the
 walled garden that is formal education.
 To participate, collaborate, and join the conversation happening around you on
 the internet.
-Which is what we’ll do in this course.
-And why we asked you to sign a waiver to join this course.
+Which is what we’ll do in this project.
+And why we asked you to sign a waiver to join this project.
 
 Students are sometimes reluctant to share work online as they are afraid of
 negative feedback.
 Typically though, poor quality work is ignored rather than ridiculed (in fact,
 most work is ignored).
-Good work in a course like this is instead used by students to land job offers
+Good work in a project like this is instead used by students to land job offers
 in the future.
 And the experience of collaborating online often provides a positive
 transformative experience.
 
 If you are afraid of stalkers, don’t want your family finding out what you work
 on, or for other reasons want to stay anonymous in the online parts of our
-course, you may use an anonymous username, email address, and avatar.
+project, you may use an anonymous username, email address, and avatar.
 
 ## Academic integrity
 
@@ -351,7 +280,7 @@ gives a definition of plagiarism, of which we paraphrased a couple here:
 
 ###### Help
 
-In this course, we require you to collaborate with team members.
+In this project, we require you to collaborate with team members.
 We also strongly urge you to help your class mates.
 Please refrain from doing their work for them.
 You can often tell when you cross that line.
@@ -370,7 +299,7 @@ projects.
 
 ## Program
 
-This course is given at [communication and multimedia design][program], a design
+This project is given at [communication and multimedia design][program], a design
 bachelor focused on interactive digital products and services.
 CMD is part of the [faculty of digital media and creative industries][faculty]
 at the [Amsterdam University of Applied Sciences][university].
@@ -379,7 +308,7 @@ The first three semesters at [**@cmda**][program] are a joint program that
 provides the fundamental knowledge to design and build digital products.
 In the fourth semester students can express individual interest as they take
 electives courses that specialize in certain fields.
-One of these electives is **project tech** (this course), which is chosen along
+One of these electives is **project tech** (this project), which is chosen along
 with **[backend][be]** and **[frontend][fe]**, forming cluster **block tech**.
 Together, this cluster provides essential knowledge needed to specialize in
 building the web.
@@ -406,6 +335,8 @@ docs and images are [CC-BY-4.0][] © [Titus Wormer][author].
 [fe]: https://github.com/cmda-bt/fe-course-19-20
 
 [tt]: https://github.com/cmda-tt/course-19-20
+
+[brightspace_pt]: https://dlo.mijnhva.nl/d2l/home/32130
 
 [ew]: https://everythingweb.org
 
