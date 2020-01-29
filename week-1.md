@@ -157,37 +157,37 @@ For your project, perform contextual analysis by means of these steps. Look at e
 
 3. Define user search
 
-  - man looking for woman
-  - man looking for man
-  - woman looking for man
-  - woman looking for woman
+  * man looking for woman
+  * man looking for man
+  * woman looking for man
+  * woman looking for woman
 
-  - administrator / hosting party
-  - marketeer
-  - data science expert
+  * administrator / hosting party
+  * marketeer
+  * data science expert
 
 4. Define user actions
 
-  - registering
-  - fill profile
-  - searching
-  - upgrade account (get extras)
+  * registering
+  * fill profile
+  * searching
+  * upgrade account (get extras)
 
-  - sending messages
-  - receiving messages
-  - sending pictures
-  - receiving pictures
-  - chatting
-  - facetime
+  * sending messages
+  * receiving messages
+  * sending pictures
+  * receiving pictures
+  * chatting
+  * facetime
 
 
 5. Define playful user interactions
 
-  - ranking
-  - liking
-  - poking
-  - playing minigames
-  - ......
+  * ranking
+  * liking
+  * poking
+  * playing minigames
+  * ......
 
 
 6. Create a Style Guide
