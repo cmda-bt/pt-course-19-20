@@ -164,7 +164,7 @@ Focus on essentials first and add bells and whistles later.
 
 ###### Grade
 
-This project consists of two parts: first an individual assignment, then a team assignment. Both assignments get a grade (1-10) and both assignments have equal weight (50% - 50%) in the final grade of the project. The two assignments can compensate each other.
+This project consists of two parts: first an [individual assignment][a1], then a [team assignment][a2]. Both assignments get a grade (1-10) and both assignments have equal weight (50% - 50%) in the final grade of the project. The two assignments can compensate each other.
 
 Grades for this project follow standard academic grading of the Netherlands.
 The scale ranges from 1 (very poor) to 10 (outstanding).
@@ -373,6 +373,10 @@ docs and images are [CC-BY-4.0][] © [Titus Wormer][author].
 [rouws]: https://github.com/rouws
 
 [michaeldzjap]: https://github.com/michaeldzjap
+
+[a1]: assessments/a1.md
+
+[a2]: assessments/a2.md
 
 [ects]: https://www.amsterdamuas.com/practical-matters/prospective-students/auas/student-affairs/ects-credits/ects-credits.html
 
