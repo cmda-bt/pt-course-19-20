@@ -164,7 +164,7 @@ Focus on essentials first and add bells and whistles later.
 
 ###### Grade
 
-This project consists of two parts: first an [individual assignment][a1], then a [team assignment][a2]. Both assignments get a grade (1-10) and both assignments have equal weight (50% - 50%) in the final grade of the project. The two assignments can compensate each other.
+This project consists of two parts: first an [individual assignment][a1] (60%), then a [team assignment][a2] (40%). Both assignments get a grade (1-10) and both assignments have different weights in the calculation of the final grade of the project (60% for a1 individual, 40% for a2 team). The two assignments can compensate each other.
 
 Grades for this project follow standard academic grading of the Netherlands.
 The scale ranges from 1 (very poor) to 10 (outstanding).
