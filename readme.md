@@ -70,10 +70,10 @@ quality.
 
 The main goals in this project are:
 
-*   You can design a part of a dynamic web application
-*   You can research current topics in web development (such as code standards, code style, version control, local development setup)
-*   You can collaborate with other developers (do version control with github, use code standards and code style, document your project)
-*   You can recognise good quality code and review other people's code.
+1.   You can design a part of a dynamic web application
+2.   You can research current topics in web development (such as code standards, code style, version control, local development setup)
+3.  You can collaborate with other developers (do version control with github, use code standards and code style, document your project)
+4.   You can recognise good quality code and review other people's code.
 
 
 ###### Subgoals
@@ -89,7 +89,7 @@ In practice you will:
 *   Customize your local machine (lab 4)
 *   Collaborate on GitHub (lab 5)
 *   Review code (lab 5)
-*   Think about privacy and security issues (lab 7)
+*  Think about privacy and security issues (lab 7)
 
 ## Calendar
 
