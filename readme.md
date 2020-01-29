@@ -99,7 +99,7 @@ Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 | Class | Date BT 1 | Date BT 2 | Date BT 3 | Date BT 4 | Date BT 5 |
 | ----- | :-------: | :-------: | :-------: | :-------: | :-------: |
 | Kickoff | feb 3rd | feb 3rd | feb 3rd | apr 14th | apr 14th |
-| Lab 1 | feb 7th | feb 7th | feb 7th | 04-16 | 04-17 |
+| Lab 1 | feb 7th | feb 7th | feb 7th | apr 16th | apr 17th |
 | Lab 2 | feb 14th | feb 14th | feb 14th | apr 23rd | apr 24th |
 | Present static prototype | feb 28th | feb 28th | feb 28th | may 8th | may 8th |
 | Lab 4 | mar 6th | mar 6th | mar 6th | may 14th | may 15th |
@@ -108,7 +108,7 @@ Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 | Lab 7 | mar 27th | mar 27th | mar 27th | jun 5th | jun 5th |
 | Lab 8 | apr 3rd | apr 3rd | apr 3rd | jun 11th | jun 12th |
 | **Assessment** | apr 9th | apr 9th | apr 8th | jun 17th | jun 18th |
-| **Assessment** resit | 06-22 | 06-25 | 06-26 | jun 23rd | jun 23rd |
+| **Assessment** resit | jun 22nd | jun 25th | jun 26th | jun 23rd | jun 23rd |
 
 ## Effort
 
