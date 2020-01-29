@@ -147,11 +147,9 @@ For your project, perform contextual analysis by means of these steps. Look at e
 
 2. Define user intentions
 
-  user
     * looking for a date
     * looking for a long-term serious relationship
 
-  manager
     * looking for new potential users
     * looking for an overview of user activity
     * looking for data analysis to market
@@ -163,7 +161,6 @@ For your project, perform contextual analysis by means of these steps. Look at e
   - man looking for man
   - woman looking for man
   - woman looking for woman
-
 
   - administrator / hosting party
   - marketeer
