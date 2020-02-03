@@ -189,12 +189,13 @@ For your project, perform contextual analysis by means of these steps. Look at e
 
 2. Create a [Style Guide](https://visme.co/blog/brand-identity/)
 
-  Create a style guide where you define at least the following parts
-  * Logo('s)
-  * Color palette('s)
-  * Fonts
-  * Icons
-  * Visuals and photography
+    Create a style guide where you define at least the following parts
+
+      * Logo('s)
+      * Color palette('s)
+      * Fonts
+      * Icons
+      * Visuals and photography
 
 
 
