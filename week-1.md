@@ -1,4 +1,4 @@
-# Week 1: Engaging in the matter
+  # Week 1: Engaging in the matter
 
 ## Table of Contents
 
@@ -144,54 +144,56 @@ For your project, perform contextual analysis by means of these steps. Look at e
     * zoosk: integrated facebook & google+ (www.zoosk.com)
     * victoria milan: dating for extramarital affairs (www.victoriamilan.nl)
 
-
-2. Define user intentions
+  Make an inventory of user intentions
 
     * looking for a date
     * looking for a long-term serious relationship
-
+    * =================
     * looking for new potential users
     * looking for an overview of user activity
     * looking for data analysis to market
 
+  Make an inventory of user search
 
-3. Define user search
+    * man looking for woman
+    * man looking for man
+    * woman looking for man
+    * woman looking for woman
+    * =================
+    * administrator / hosting party
+    * marketeer
+    * data science expert
 
-  * man looking for woman
-  * man looking for man
-  * woman looking for man
-  * woman looking for woman
+  Make an inventory of user actions
 
-  * administrator / hosting party
-  * marketeer
-  * data science expert
+    * registering
+    * fill profile
+    * searching
+    * upgrade account (get extras)
+    * sending messages
+    * receiving messages
+    * sending pictures
+    * receiving pictures
+    * chatting
+    * facetime
 
-4. Define user actions
+  Make an inventory of playful user interactions
 
-  * registering
-  * fill profile
-  * searching
-  * upgrade account (get extras)
-
-  * sending messages
-  * receiving messages
-  * sending pictures
-  * receiving pictures
-  * chatting
-  * facetime
-
-
-5. Define playful user interactions
-
-  * ranking
-  * liking
-  * poking
-  * playing minigames
-  * ......
+    * ranking
+    * liking
+    * poking
+    * playing minigames
+    * ......
 
 
-6. Create a Style Guide
-  *  [article Brand Identity](https://visme.co/blog/brand-identity/)
+2. Create a [Style Guide](https://visme.co/blog/brand-identity/)
+
+Create a style guide where you define at least the following parts
+  * Logo('s)
+  * Color palette('s)
+  * Fonts
+  * Icons
+  * Visuals and photography
 
 
 
