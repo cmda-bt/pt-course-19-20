@@ -43,7 +43,7 @@ Follow it until you see “Congratulations”.
 *   Stuck?  See the [Bugs][] section of the course readme to find a list of
     troubleshooting tips
 
-### Try Git
+### Katacoda learn Git
 
 In this assignment you’ll learn the basics of Git.
 
@@ -54,8 +54,8 @@ In this assignment you’ll learn the basics of Git.
 
 #### Description
 
-Take ± 15 minutes to [Try Git][try-git] through GitHub’s interactive tutorial.
-It’s pretty sweet.  Follow it until you see “Congratulations”.
+Take ± 15 minutes to [learn Git][katacoda] through Katacoda's interactive tutorial.
+It’s pretty sweet.  Follow scenario 1 (and 2 if you have enough time).
 
 #### Tips
 
@@ -85,17 +85,6 @@ of Git.
 *   **Time**: 1:00h
 *   **Due**: before [lab 2][w2lab]
 
-#### Tips
-
-*   [GitHub Glossary](https://help.github.com/articles/github-glossary/)
-    (**article**)
-    — List of Git and GitHub specific terms
-*   [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
-    (**cheat sheet**)
-    — Reference sheets covering Git commands and features
-*   Stuck?  See the [Bugs][] section of the course readme to find a list of
-    troubleshooting tips
-
 #### Description
 
 Take ± 30 minutes to follow the [Introduction to
@@ -106,6 +95,17 @@ If you completed the exercises, mark this assignment as complete by opening an
 issue on our [GitHub issue tracker][issues].
 
 Include the links from your exercises in your issue. Let us know in the issue what you thought of the exercises.
+
+#### Tips
+
+*   [GitHub Glossary](https://help.github.com/articles/github-glossary/)
+    (**article**)
+    — List of Git and GitHub specific terms
+*   [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
+    (**cheat sheet**)
+    — Reference sheets covering Git commands and features
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
 
 #### Extra resources
 
@@ -194,8 +194,6 @@ For your project, perform contextual analysis by means of these steps. Look at e
       * Visuals and photography
 
 
-
-
 #### Methods
 *   [Benchmark creation](http://cmdmethods.nl/cards/library/benchmark-creation)
 
@@ -235,7 +233,7 @@ Hand in your research in your repository on GitHub under your username.
 
 [md-tutorial]: https://www.markdowntutorial.com
 
-[try-git]: https://try.github.io
+[katacoda]: https://www.katacoda.com/courses/git
 
 [octocat-intro-to-github]: https://services.github.com/on-demand/intro-to-github/
 
