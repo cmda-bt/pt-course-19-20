@@ -149,8 +149,8 @@ For your project, perform contextual analysis by means of these steps. Look at e
 
         * looking for a date
         * looking for a long-term serious relationship
-        * =================
         * looking for new potential users
+        * =================
         * looking for an overview of user activity
         * looking for data analysis to market
 
