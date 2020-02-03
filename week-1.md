@@ -121,13 +121,14 @@ Include the links from your exercises in your issue. Let us know in the issue wh
 
 #### Synopsis
 
+*   **Create a benchmark and a style guide**
 *   **Time**: 5:00h
 *   **Goals**: goal 1
 *   **Due**: before [lab 2][w2lab]
 
 #### Description
 
-For your project, perform contextual analysis by means of these steps. Look at existing dating (and also maybe other matching) sites and create an overview of characteristics. by doing this, you will get inspiration, insights and design patterns that you can use for your project.
+For your project, perform contextual analysis by means of these steps. Look at existing dating (and also maybe other matching) sites and create an overview of characteristics. By doing this, you will get inspiration, insights and design patterns that you can use for your project.
 
 1. Create a [benchmark](http://cmdmethods.nl/cards/library/benchmark-creation)
 
