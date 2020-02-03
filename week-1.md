@@ -25,7 +25,6 @@ In this assignment you’ll learn the basics of Markdown.
 
 *   **Practice**
 *   **Time**: 0:30h
-*   **Goals**: goal 2
 
 #### Description
 
@@ -52,7 +51,6 @@ In this assignment you’ll learn the basics of Git.
 
 *   **Practice**
 *   **Time**: 0:15h
-*   **Goals**: goal 2
 
 #### Description
 
@@ -85,7 +83,6 @@ of Git.
 
 *   **Practice**
 *   **Time**: 1:00h
-*   **Goals**: goal 2
 *   **Due**: before [lab 2][w2lab]
 
 #### Tips
@@ -123,7 +120,6 @@ Include the links from your exercises in your issue. Let us know in the issue wh
 
 *   **Create a benchmark and a style guide**
 *   **Time**: 5:00h
-*   **Goals**: goal 1
 *   **Due**: before [lab 2][w2lab]
 
 #### Description
