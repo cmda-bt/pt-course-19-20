@@ -223,7 +223,7 @@ Hand in your research in your repository on GitHub under your username.
 
 [comic-author]: https://xkcd.com
 
-[slides-lab]:
+[slides-lab]: https://docs.google.com/presentation/d/e/2PACX-1vQ3c-KZTPywATIL1t1HS20cpmSFjyBsTCcENpBU2KA2jyxFiCvmKKhhUR6G78-x29NsqQDvt3qmsB4Z/pub?start=false&loop=false&delayms=3000
 
 [w2lab]: week-2.md#lab
 
