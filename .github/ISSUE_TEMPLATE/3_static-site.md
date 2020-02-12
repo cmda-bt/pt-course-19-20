@@ -1,6 +1,6 @@
 ---
 name: Week 3 - Job story + static site
-about: Learn the basics of the command line
+about: Hand in your work for the first feedback moment
 title: first feedbackmoment
 labels: 'week-3'
 ---
