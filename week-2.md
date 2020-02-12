@@ -207,7 +207,7 @@ For example, something like [this one by **@holman**](https://github.com/holman/
 
 [comic-author]: https://xkcd.com
 
-[slides-lab]: 
+[slides-lab]: https://docs.google.com/presentation/d/e/2PACX-1vSJeyKSUiBgHZPvnWDA8PHmjyoRaFn4LDPkVNhlaQmaSrmxfynPsIRwIoCVjX2hI1cCk565dl_t8iDC/pub?start=false&loop=false&delayms=3000
 
 [w3lab]: week-3.md#lab
 
