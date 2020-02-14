@@ -24,7 +24,7 @@
 ### EditorConfig (research)
 
 * **Research**
-* **Time**: 15m
+* **Time**: 20m
 
 Take 15 minutes to read the [home page](https://editorconfig.org/) of _EditorConfig_ and try to answer the following questions for yourself:
 
