@@ -91,6 +91,16 @@ Create a [page](https://guides.github.com/features/wikis/#adding-pages) for this
 1. **Push your changes:**
 Hand in your research in your repository on GitHub under your username.
 
+## Advanced Matters
+
+As hopefully has become clear from following this weeks lecture; coding standards and code quality encompasses a lot. There are many useful tools available that can aid you in learning how to write good quality code and help maintaining a healthy code base. We've only covered the basics. For those that are interested; here's an overview of some more advanced topics an resources:
+
+* [TypeScript](https://www.typescriptlang.org/) - adds optional static typing to the JavaScript language
+* [Software testing](https://en.wikipedia.org/wiki/Software_testing) - an essential aspect of modern software development
+* [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) -  design patterns are formalized best practices that a software developer can use to solve common problems when designing an application or system
+
+> Don't worry if the above resources do not make much sense to you at this point. They are merely listed for the sake of completeness and as suggestions for those of you who want to learn more about good coding practices. But if you decide to choose for a career in web / software development, it is likely that you will come across these sooner or later.
+
 [bugs]: readme.md#bugs
 
 [comic-cover]: https://imgs.xkcd.com/comics/geoip.png
