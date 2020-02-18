@@ -29,8 +29,8 @@
 Take 15 minutes to read the [home page](https://editorconfig.org/) of _EditorConfig_ and try to answer the following questions for yourself:
 
 * What is the purpose of the `.editorconfig` file?
-* What do I need to do / configure before I can use _EditorConfig_ in my project? (e.g. Does my code editor support _EditorConfig_ out of the box or do I need to install a specific package?)
-* What rules in particular are important to ensure that me and my team mates maintain a consistent coding style throughout the project? (hint: Unix vs. Windows line endings, tabs vs. spaces)
+* What do I need to configure before I can use _EditorConfig_ in my project? (e.g. Does my code editor support _EditorConfig_ out of the box or do I need to install a specific package?)
+* What rules in particular are important to ensure that me and my team mates use the same formatting throughout the project? (hint: Unix vs. Windows line endings, tabs vs. spaces, indentation)
 
 ### Linting (research)
 
