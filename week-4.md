@@ -36,7 +36,7 @@ Take about 45 minutes to investigate what 'linting' is: What is it used for? Why
 
 ## Homework
 
-### Linting (integration)
+### Linting (setup)
 
 *   **Homework**
 *   **Time**: 3h
