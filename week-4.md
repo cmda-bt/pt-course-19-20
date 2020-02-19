@@ -109,4 +109,4 @@ As hopefully has become clear from following this weeks lecture; coding standard
 
 [comic-author]: https://xkcd.com
 
-[slides-lab]: https://docs.google.com/presentation/d/1Jaq86Wo5qQkVzeJX2ZY1JoL8T5Lvfq4A7hC01sLNjUM/edit?usp=sharing
+[slides-lab]: https://docs.google.com/presentation/d/1N3jKqH0Jk9L7blACnQDTijsDrey9U8m0xBCNp_hgO_8/edit?usp=sharing
