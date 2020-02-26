@@ -1,6 +1,6 @@
 <!--lint disable no-html-->
 
-# Week 4: Configs & Requirements
+# Week 4: Coding Standards
 
 ## Table of Contents
 
@@ -85,11 +85,12 @@ Narrow down your Job Story in specific small functionalities and make a [list of
 
 ### Hand in
 
-1. **Pages:**
+1. **GitHub wiki page:**
 Create a [page](https://guides.github.com/features/wikis/#adding-pages) for this week or section of your research on your [GitHub Wiki](https://guides.github.com/features/wikis/#creating-your-wiki).
-
-1. **Push your changes:**
-Hand in your research in your repository on GitHub under your username.
+2. **GitHub repository:**
+Push your work to your repository on GitHub under your username.
+3. **Create a new issue**:
+Mark this assignment as complete by opening an issue on our [GitHub issue tracker](https://github.com/cmda-bt/pt-course-19-20/issues/new/choose). Fill in the issue template with the correct information. Include what you did in the description of the issue.
 
 ## Advanced Matters
 
