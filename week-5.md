@@ -63,7 +63,7 @@ Take about 1h to complete the [Community Starter kit course](https://lab.github.
 
 Read about the [first assessment a1][a1] and hand in the URL to your Github repository (including your wiki) on DLO on the [Project Tech course page](https://dlo.mijnhva.nl/d2l/home/32130)
 
-[a1]: assessmentes/ai.md
+[a1]: assessments/ai.md
 
 [bugs]: readme.md#goals
 
