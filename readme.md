@@ -144,7 +144,7 @@ templating).
 
 Progress would look something like this:
 
-*   [Week 1](../week-1.md): Kickoff
+*   [Week 1](../blob/master/week-1.md): Kickoff
 *   Week 2: Benchmark creation, style guides, job story
 *   Week 3: Wireflow, wireframes, static site, github setup
 *   Week 4: Readme, routes, templates, render
