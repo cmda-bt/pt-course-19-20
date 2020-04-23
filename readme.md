@@ -145,12 +145,12 @@ templating).
 Progress would look something like this:
 
 *   [Week 1](../master/week-1.md): Kickoff
-*   Week 2: Benchmark creation, style guides, job story
-*   Week 3: Wireflow, wireframes, static site, github setup
-*   Week 4: Readme, routes, templates, render
-*   Week 5: Database, create, update, delete
-*   Week 6: Progressive enhancement, complete job story done (individual assignment)
-*   Week 7: Create and design team project, github setup
+*   [Week 2](../master/week-2.md): Benchmark creation, style guides, job story
+*   [Week 3](../master/week-3.md): Wireflow, wireframes, static site, github setup
+*   [Week 4](../master/week-4.md) Readme, routes, templates, render
+*   [Week 5](../master/week-5.md): Database, create, update, delete
+*   [Week 6](../master/week-6.md): Progressive enhancement, complete job story done (individual assignment)
+*   [Week 7](../master/week-7.md): Create and design team project, github setup
 *   Week 8: Finish up (team assignment)
 
 Of course, it’s expected that progress in practice is more chaotic and
