@@ -10,7 +10,7 @@ Project Tech is a first stepping stone for you to become a web developer.
 *   [Goals](#goals)
 *   [Calendar](#calendar)
 *   [Effort](#effort)
-*   [Assessment](#assessment)
+*   [Assignment](#assignment)
 *   [Bugs](#bugs)
 *   [Health](#health)
 *   [Conduct](#conduct)
