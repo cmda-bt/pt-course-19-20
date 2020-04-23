@@ -74,7 +74,13 @@ It’s pretty sweet.  Follow scenario 1 (and 2 if you have enough time).
 
 ## Homework
 
-### I. Github - Octocat
+### I. Ideas
+
+Draw & write down as many dating ideas that you have right now for the dating site that you are going to create. Use A3-paper.
+Reflect on the connection between people. How can you move from being strangers towards partnerships? 
+What job story (feature) are you going to work on? Write down your first thoughts.
+
+### II. Github - Octocat
 
 In this assignment you’ll learn the basics of GitHub and advance your knowledge
 of Git.
