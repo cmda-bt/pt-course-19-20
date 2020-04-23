@@ -98,16 +98,16 @@ Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 
 | Class | Date BT 1 | Date BT 2 | Date BT 3 | Date BT 4 | Date BT 5 |
 | ----- | :-------: | :-------: | :-------: | :-------: | :-------: |
-| Kickoff | feb 3rd | feb 3rd | feb 3rd | apr 14th | apr 14th |
-| Lab 1 | feb 7th | feb 7th | feb 7th | apr 16th | apr 17th |
-| Lab 2 | feb 14th | feb 14th | feb 14th | apr 23rd | apr 24th |
-| Present static prototype | feb 28th | feb 28th | feb 28th | may 8th | may 8th |
-| Lab 4 | mar 6th | mar 6th | mar 6th | may 14th | may 15th |
-| Lab 5 | mar 13th | mar 10th | mar 13th | may 19th | may 19th |
-| Present indiv. assignment | mar 20th | mar 20th | mar 20th | may 28th | may 29th |
-| Lab 7 | mar 27th | mar 27th | mar 27th | jun 5th | jun 5th |
-| Lab 8 | apr 3rd | apr 3rd | apr 3rd | jun 11th | jun 12th |
-| **Assessment** | apr 9th | apr 9th | apr 8th | jun 17th | jun 18th |
+| Kickoff | feb 3rd | feb 3rd | feb 3rd | apr 20th | apr 20th |
+| Lab 1 | feb 7th | feb 7th | feb 7th | apr 23th | apr 24th |
+| Lab 2 | feb 14th | feb 14th | feb 14th | may 8th | may 8th |
+| Present static prototype | feb 28th | feb 28th | feb 28th | may 14th | may 15th |
+| Lab 4 | mar 6th | mar 6th | mar 6th | may 19th | may 19th |
+| Lab 5 | mar 13th | mar 10th | mar 13th | may 28th | may 29th |
+| Present indiv. assignment | mar 20th | mar 20th | mar 20th | may 5th | may 5th |
+| Lab 7 | mar 27th | mar 27th | mar 27th | jun 11th | jun 12th |
+| Lab 8 | apr 3rd | apr 3rd | apr 3rd | jun 18th | jun 19th |
+| **Assessment** | apr 9th | apr 9th | apr 8th | jun 24th | jun 24th |
 | **Assessment** resit | jun 22nd | jun 25th | jun 26th | jun 23rd | jun 23rd |
 
 ## Effort
