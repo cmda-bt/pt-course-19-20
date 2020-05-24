@@ -5,7 +5,6 @@
 ## Table of Contents
 
 *   [Comic](#comic)
-*   [Slides](#slides)
 *   [Assignments](#assignments)
 *   [Homework](#homework)
 
@@ -14,10 +13,6 @@
 [![][comic-cover]][comic-link]
 
 > GeoIP by [**@xkcd**][comic-author].
-
-## Slides
-
-*   [**Slides**][slides-lab]
 
 ## Assignments
 
